@@ -15,7 +15,7 @@ The sequence of numbers involved is referred to as the hailstone sequence or hai
 
 # What This Program Does
 
-This is a console app that can takes input up to 7.9 x 10<sup>28</sup> and will show you:
+This is a console app that can take input up to 7.9 x 10<sup>28</sup> and will show you:
 
 - The hailstone sequence (will stop at 1).
 - The number of steps taken.
